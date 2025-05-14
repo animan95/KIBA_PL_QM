@@ -62,6 +62,38 @@ We tune the following parameters:
 - `hidden_dim`: {128, 256, 512}
 - `batch_size`: {32, 64, 128}
 
-### Run tuning:
-```bash
-python optuna_tuning_kiba.py
+## 🧬 Applications
+
+This model and pipeline can be used for:
+
+- **Drug–target interaction prediction**  
+  Predicting bioactivity scores for protein–ligand pairs using structure and QM-informed descriptors.
+
+- **Quantum-informed virtual screening**  
+  Leveraging HOMO–LUMO gaps and dipole moments to bias ML models toward chemically plausible ligands.
+
+- **Cheminformatics research**  
+  Exploring the effects of electronic structure features on binding affinity, enabling hybrid DFT + ML approaches.
+
+- **Benchmarking ligand embeddings**  
+  Testing different graph neural network architectures on chemically relevant regression tasks.
+
+- **Modeling electronic interactions in drug discovery**  
+  Going beyond topological fingerprints by including quantum-derived fields such as polarity and orbital energies.
+
+## 📚 Citation
+
+If you use this pipeline or its components, please cite the following:
+
+1. **KIBA Dataset**  
+   Tang, J., Szwajda, A., Shakyawar, S. et al.  
+   *Making Sense of Large-Scale Kinase Inhibitor Bioactivity Data Sets: A Comparative and Integrative Analysis*  
+   J. Chem. Inf. Model. 54, 735–743 (2014).  
+   [https://doi.org/10.1021/ci400709d](https://doi.org/10.1021/ci400709d)
+
+2. **QMugs Dataset**  
+   Isert, C., Atz, K., Jiménez-Luna, J., Schneider, G.  
+   *QMugs: Quantum Mechanical Properties of Drug-like Molecules*  
+   Mach. Learn.: Sci. Technol. 12, 015004 (2022).  
+   [https://doi.org/10.1088/2632-2153/ac58b9](https://doi.org/10.1088/2632-2153/ac58b9)
+
