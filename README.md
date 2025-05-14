@@ -29,7 +29,7 @@ This project uses three modules:
 ### 1. Ligand Encoder (`LigandGCN`)
 - Graph Neural Network (GINConv)
 - Converts ligand SMILES to molecular graphs
-- Output: 128-dimensional embedding
+- Output: 135-dimensional embedding
 
 ### 2. Protein Encoder (`ProteinCNN`)
 - 1D Convolutional Neural Network
