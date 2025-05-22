@@ -1,0 +1,201 @@
+Total dataset size: 266365
+Epoch 01 | Train Loss: 1.8291 | Val RMSE: 0.7807 | Val R²: 0.0949
+→ Saved new best model (RMSE 0.7807)
+Epoch 02 | Train Loss: 1.4055 | Val RMSE: 0.7859 | Val R²: 0.0827
+→ Saved new best model (RMSE 0.7807)
+Epoch 03 | Train Loss: 1.3433 | Val RMSE: 0.7532 | Val R²: 0.1574
+→ Saved new best model (RMSE 0.7532)
+Epoch 04 | Train Loss: 1.2736 | Val RMSE: 0.7796 | Val R²: 0.0975
+→ Saved new best model (RMSE 0.7532)
+Epoch 05 | Train Loss: 1.2179 | Val RMSE: 0.7545 | Val R²: 0.1546
+→ Saved new best model (RMSE 0.7532)
+Epoch 06 | Train Loss: 1.1657 | Val RMSE: 0.7455 | Val R²: 0.1746
+→ Saved new best model (RMSE 0.7455)
+Epoch 07 | Train Loss: 1.1208 | Val RMSE: 0.7440 | Val R²: 0.1779
+→ Saved new best model (RMSE 0.7440)
+Epoch 08 | Train Loss: 1.0783 | Val RMSE: 0.7563 | Val R²: 0.1506
+→ Saved new best model (RMSE 0.7440)
+Epoch 09 | Train Loss: 1.0349 | Val RMSE: 0.7294 | Val R²: 0.2100
+→ Saved new best model (RMSE 0.7294)
+Epoch 10 | Train Loss: 0.9978 | Val RMSE: 0.8066 | Val R²: 0.0339
+→ Saved new best model (RMSE 0.7294)
+Epoch 11 | Train Loss: 0.9565 | Val RMSE: 0.7304 | Val R²: 0.2078
+→ Saved new best model (RMSE 0.7294)
+Epoch 12 | Train Loss: 0.9147 | Val RMSE: 0.7163 | Val R²: 0.2381
+→ Saved new best model (RMSE 0.7163)
+Epoch 13 | Train Loss: 0.8805 | Val RMSE: 0.7076 | Val R²: 0.2565
+→ Saved new best model (RMSE 0.7076)
+Epoch 14 | Train Loss: 0.8414 | Val RMSE: 0.7029 | Val R²: 0.2664
+→ Saved new best model (RMSE 0.7029)
+Epoch 15 | Train Loss: 0.8081 | Val RMSE: 0.7165 | Val R²: 0.2377
+→ Saved new best model (RMSE 0.7029)
+Epoch 16 | Train Loss: 0.7753 | Val RMSE: 0.6983 | Val R²: 0.2759
+→ Saved new best model (RMSE 0.6983)
+Epoch 17 | Train Loss: 0.7482 | Val RMSE: 0.6946 | Val R²: 0.2835
+→ Saved new best model (RMSE 0.6946)
+Epoch 18 | Train Loss: 0.7248 | Val RMSE: 0.6868 | Val R²: 0.2996
+→ Saved new best model (RMSE 0.6868)
+Epoch 19 | Train Loss: 0.7011 | Val RMSE: 0.6839 | Val R²: 0.3054
+→ Saved new best model (RMSE 0.6839)
+Epoch 20 | Train Loss: 0.6734 | Val RMSE: 0.6877 | Val R²: 0.2977
+→ Saved new best model (RMSE 0.6839)
+Epoch 21 | Train Loss: 0.6539 | Val RMSE: 0.6779 | Val R²: 0.3176
+→ Saved new best model (RMSE 0.6779)
+Epoch 22 | Train Loss: 0.6350 | Val RMSE: 0.6825 | Val R²: 0.3083
+→ Saved new best model (RMSE 0.6779)
+Epoch 23 | Train Loss: 0.6182 | Val RMSE: 0.6702 | Val R²: 0.3331
+→ Saved new best model (RMSE 0.6702)
+Epoch 24 | Train Loss: 0.5996 | Val RMSE: 0.6675 | Val R²: 0.3384
+→ Saved new best model (RMSE 0.6675)
+Epoch 25 | Train Loss: 0.5864 | Val RMSE: 0.6686 | Val R²: 0.3361
+→ Saved new best model (RMSE 0.6675)
+Epoch 26 | Train Loss: 0.5710 | Val RMSE: 0.6647 | Val R²: 0.3438
+→ Saved new best model (RMSE 0.6647)
+Epoch 27 | Train Loss: 0.5584 | Val RMSE: 0.6619 | Val R²: 0.3494
+→ Saved new best model (RMSE 0.6619)
+Epoch 28 | Train Loss: 0.5469 | Val RMSE: 0.6702 | Val R²: 0.3329
+→ Saved new best model (RMSE 0.6619)
+Epoch 29 | Train Loss: 0.5381 | Val RMSE: 0.6601 | Val R²: 0.3529
+→ Saved new best model (RMSE 0.6601)
+Epoch 30 | Train Loss: 0.5268 | Val RMSE: 0.6699 | Val R²: 0.3335
+→ Saved new best model (RMSE 0.6601)
+Epoch 31 | Train Loss: 0.5173 | Val RMSE: 0.6605 | Val R²: 0.3522
+→ Saved new best model (RMSE 0.6601)
+Epoch 32 | Train Loss: 0.5078 | Val RMSE: 0.6544 | Val R²: 0.3640
+→ Saved new best model (RMSE 0.6544)
+Epoch 33 | Train Loss: 0.4966 | Val RMSE: 0.6474 | Val R²: 0.3776
+→ Saved new best model (RMSE 0.6474)
+Epoch 34 | Train Loss: 0.4873 | Val RMSE: 0.6397 | Val R²: 0.3922
+→ Saved new best model (RMSE 0.6397)
+Epoch 35 | Train Loss: 0.4746 | Val RMSE: 0.6336 | Val R²: 0.4039
+→ Saved new best model (RMSE 0.6336)
+Epoch 36 | Train Loss: 0.4664 | Val RMSE: 0.6294 | Val R²: 0.4118
+→ Saved new best model (RMSE 0.6294)
+Epoch 37 | Train Loss: 0.4587 | Val RMSE: 0.6437 | Val R²: 0.3847
+→ Saved new best model (RMSE 0.6294)
+Epoch 38 | Train Loss: 0.4498 | Val RMSE: 0.6266 | Val R²: 0.4170
+→ Saved new best model (RMSE 0.6266)
+Epoch 39 | Train Loss: 0.4434 | Val RMSE: 0.6298 | Val R²: 0.4109
+→ Saved new best model (RMSE 0.6266)
+Epoch 40 | Train Loss: 0.4374 | Val RMSE: 0.6262 | Val R²: 0.4177
+→ Saved new best model (RMSE 0.6262)
+Epoch 41 | Train Loss: 0.4310 | Val RMSE: 0.6189 | Val R²: 0.4312
+→ Saved new best model (RMSE 0.6189)
+Epoch 42 | Train Loss: 0.4256 | Val RMSE: 0.6144 | Val R²: 0.4395
+→ Saved new best model (RMSE 0.6144)
+Epoch 43 | Train Loss: 0.4225 | Val RMSE: 0.6116 | Val R²: 0.4445
+→ Saved new best model (RMSE 0.6116)
+Epoch 44 | Train Loss: 0.4173 | Val RMSE: 0.6159 | Val R²: 0.4367
+→ Saved new best model (RMSE 0.6116)
+Epoch 45 | Train Loss: 0.4134 | Val RMSE: 0.6192 | Val R²: 0.4306
+→ Saved new best model (RMSE 0.6116)
+Epoch 46 | Train Loss: 0.4079 | Val RMSE: 0.6056 | Val R²: 0.4554
+→ Saved new best model (RMSE 0.6056)
+Epoch 47 | Train Loss: 0.4042 | Val RMSE: 0.6071 | Val R²: 0.4527
+→ Saved new best model (RMSE 0.6056)
+Epoch 48 | Train Loss: 0.4007 | Val RMSE: 0.6054 | Val R²: 0.4558
+→ Saved new best model (RMSE 0.6054)
+Epoch 49 | Train Loss: 0.3957 | Val RMSE: 0.6023 | Val R²: 0.4613
+→ Saved new best model (RMSE 0.6023)
+Epoch 50 | Train Loss: 0.3891 | Val RMSE: 0.5916 | Val R²: 0.4802
+→ Saved new best model (RMSE 0.5916)
+Epoch 51 | Train Loss: 0.3856 | Val RMSE: 0.5900 | Val R²: 0.4830
+→ Saved new best model (RMSE 0.5900)
+Epoch 52 | Train Loss: 0.3809 | Val RMSE: 0.5897 | Val R²: 0.4835
+→ Saved new best model (RMSE 0.5897)
+Epoch 53 | Train Loss: 0.3774 | Val RMSE: 0.5852 | Val R²: 0.4915
+→ Saved new best model (RMSE 0.5852)
+Epoch 54 | Train Loss: 0.3736 | Val RMSE: 0.5811 | Val R²: 0.4985
+→ Saved new best model (RMSE 0.5811)
+Epoch 55 | Train Loss: 0.3692 | Val RMSE: 0.5899 | Val R²: 0.4833
+→ Saved new best model (RMSE 0.5811)
+Epoch 56 | Train Loss: 0.3647 | Val RMSE: 0.5738 | Val R²: 0.5111
+→ Saved new best model (RMSE 0.5738)
+Epoch 57 | Train Loss: 0.3603 | Val RMSE: 0.5686 | Val R²: 0.5199
+→ Saved new best model (RMSE 0.5686)
+Epoch 58 | Train Loss: 0.3565 | Val RMSE: 0.5645 | Val R²: 0.5268
+→ Saved new best model (RMSE 0.5645)
+Epoch 59 | Train Loss: 0.3546 | Val RMSE: 0.5611 | Val R²: 0.5324
+→ Saved new best model (RMSE 0.5611)
+Epoch 60 | Train Loss: 0.3515 | Val RMSE: 0.5608 | Val R²: 0.5330
+→ Saved new best model (RMSE 0.5608)
+Epoch 61 | Train Loss: 0.3485 | Val RMSE: 0.5568 | Val R²: 0.5396
+→ Saved new best model (RMSE 0.5568)
+Epoch 62 | Train Loss: 0.3471 | Val RMSE: 0.5522 | Val R²: 0.5472
+→ Saved new best model (RMSE 0.5522)
+Epoch 63 | Train Loss: 0.3446 | Val RMSE: 0.5557 | Val R²: 0.5414
+→ Saved new best model (RMSE 0.5522)
+Epoch 64 | Train Loss: 0.3406 | Val RMSE: 0.5538 | Val R²: 0.5445
+→ Saved new best model (RMSE 0.5522)
+Epoch 65 | Train Loss: 0.3411 | Val RMSE: 0.5550 | Val R²: 0.5426
+→ Saved new best model (RMSE 0.5522)
+Epoch 66 | Train Loss: 0.3382 | Val RMSE: 0.5555 | Val R²: 0.5417
+→ Saved new best model (RMSE 0.5522)
+Epoch 67 | Train Loss: 0.3339 | Val RMSE: 0.5465 | Val R²: 0.5565
+→ Saved new best model (RMSE 0.5465)
+Epoch 68 | Train Loss: 0.3331 | Val RMSE: 0.5521 | Val R²: 0.5473
+→ Saved new best model (RMSE 0.5465)
+Epoch 69 | Train Loss: 0.3318 | Val RMSE: 0.5558 | Val R²: 0.5413
+→ Saved new best model (RMSE 0.5465)
+Epoch 70 | Train Loss: 0.3288 | Val RMSE: 0.5500 | Val R²: 0.5507
+→ Saved new best model (RMSE 0.5465)
+Epoch 71 | Train Loss: 0.3286 | Val RMSE: 0.5444 | Val R²: 0.5599
+→ Saved new best model (RMSE 0.5444)
+Epoch 72 | Train Loss: 0.3249 | Val RMSE: 0.5445 | Val R²: 0.5597
+→ Saved new best model (RMSE 0.5444)
+Epoch 73 | Train Loss: 0.3236 | Val RMSE: 0.5400 | Val R²: 0.5669
+→ Saved new best model (RMSE 0.5400)
+Epoch 74 | Train Loss: 0.3217 | Val RMSE: 0.5402 | Val R²: 0.5666
+→ Saved new best model (RMSE 0.5400)
+Epoch 75 | Train Loss: 0.3200 | Val RMSE: 0.5332 | Val R²: 0.5779
+→ Saved new best model (RMSE 0.5332)
+Epoch 76 | Train Loss: 0.3186 | Val RMSE: 0.5385 | Val R²: 0.5694
+→ Saved new best model (RMSE 0.5332)
+Epoch 77 | Train Loss: 0.3178 | Val RMSE: 0.5304 | Val R²: 0.5823
+→ Saved new best model (RMSE 0.5304)
+Epoch 78 | Train Loss: 0.3164 | Val RMSE: 0.5264 | Val R²: 0.5886
+→ Saved new best model (RMSE 0.5264)
+Epoch 79 | Train Loss: 0.3140 | Val RMSE: 0.5283 | Val R²: 0.5856
+→ Saved new best model (RMSE 0.5264)
+Epoch 80 | Train Loss: 0.3121 | Val RMSE: 0.5280 | Val R²: 0.5860
+→ Saved new best model (RMSE 0.5264)
+Epoch 81 | Train Loss: 0.3108 | Val RMSE: 0.5269 | Val R²: 0.5877
+→ Saved new best model (RMSE 0.5264)
+Epoch 82 | Train Loss: 0.3111 | Val RMSE: 0.5255 | Val R²: 0.5898
+→ Saved new best model (RMSE 0.5255)
+Epoch 83 | Train Loss: 0.3090 | Val RMSE: 0.5207 | Val R²: 0.5974
+→ Saved new best model (RMSE 0.5207)
+Epoch 84 | Train Loss: 0.3095 | Val RMSE: 0.5191 | Val R²: 0.5999
+→ Saved new best model (RMSE 0.5191)
+Epoch 85 | Train Loss: 0.3064 | Val RMSE: 0.5205 | Val R²: 0.5977
+→ Saved new best model (RMSE 0.5191)
+Epoch 86 | Train Loss: 0.3057 | Val RMSE: 0.5214 | Val R²: 0.5963
+→ Saved new best model (RMSE 0.5191)
+Epoch 87 | Train Loss: 0.3040 | Val RMSE: 0.5138 | Val R²: 0.6080
+→ Saved new best model (RMSE 0.5138)
+Epoch 88 | Train Loss: 0.3029 | Val RMSE: 0.5174 | Val R²: 0.6025
+→ Saved new best model (RMSE 0.5138)
+Epoch 89 | Train Loss: 0.3021 | Val RMSE: 0.5207 | Val R²: 0.5973
+→ Saved new best model (RMSE 0.5138)
+Epoch 90 | Train Loss: 0.3002 | Val RMSE: 0.5177 | Val R²: 0.6020
+→ Saved new best model (RMSE 0.5138)
+Epoch 91 | Train Loss: 0.2993 | Val RMSE: 0.5142 | Val R²: 0.6073
+→ Saved new best model (RMSE 0.5138)
+Epoch 92 | Train Loss: 0.2994 | Val RMSE: 0.5173 | Val R²: 0.6026
+→ Saved new best model (RMSE 0.5138)
+Epoch 93 | Train Loss: 0.2957 | Val RMSE: 0.5114 | Val R²: 0.6116
+→ Saved new best model (RMSE 0.5114)
+Epoch 94 | Train Loss: 0.2967 | Val RMSE: 0.5055 | Val R²: 0.6206
+→ Saved new best model (RMSE 0.5055)
+Epoch 95 | Train Loss: 0.2947 | Val RMSE: 0.5158 | Val R²: 0.6050
+→ Saved new best model (RMSE 0.5055)
+Epoch 96 | Train Loss: 0.2936 | Val RMSE: 0.5027 | Val R²: 0.6247
+→ Saved new best model (RMSE 0.5027)
+Epoch 97 | Train Loss: 0.2916 | Val RMSE: 0.5128 | Val R²: 0.6095
+→ Saved new best model (RMSE 0.5027)
+Epoch 98 | Train Loss: 0.2921 | Val RMSE: 0.5044 | Val R²: 0.6222
+→ Saved new best model (RMSE 0.5027)
+Epoch 99 | Train Loss: 0.2914 | Val RMSE: 0.5049 | Val R²: 0.6214
+→ Saved new best model (RMSE 0.5027)
+Epoch 100 | Train Loss: 0.2896 | Val RMSE: 0.5066 | Val R²: 0.6189
+→ Saved new best model (RMSE 0.5027)
